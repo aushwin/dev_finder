@@ -1,0 +1,4 @@
+.background-image {
+  background: url("../../assets/bg.png");
+  object-fit: scale-down;
+}
