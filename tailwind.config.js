@@ -12,6 +12,9 @@ module.exports = {
         bg_red: {
           light: "#F7D8BA",
         },
+        bg_tracking: {
+          main: "#E97649",
+        },
       },
     },
   },
